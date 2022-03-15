@@ -3,5 +3,6 @@
     <pages>
         <page name='Duplicate Zeros'/>
         <page name='Merge Sorted Array'/>
+        <page name='Remove Element  '/>
     </pages>
 </playground>
