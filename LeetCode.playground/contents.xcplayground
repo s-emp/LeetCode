@@ -4,5 +4,6 @@
         <page name='Duplicate Zeros'/>
         <page name='Merge Sorted Array'/>
         <page name='Remove Element  '/>
+        <page name='Two Sum'/>
     </pages>
 </playground>
