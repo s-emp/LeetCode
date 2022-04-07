@@ -7,5 +7,5 @@
 
 import Foundation
 
-print("Hello, World!")
-
+let addTwoNumbers = AddTwoNumbers()
+addTwoNumbers.tests()
