@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		622A79EA27FF3BF500AF4855 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 622A79E927FF3BF500AF4855 /* main.swift */; };
 		623A6B8F27FF3C9800DB4AF8 /* AddTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623A6B8E27FF3C9800DB4AF8 /* AddTwoNumbers.swift */; };
+		623A6B9128009B4A00DB4AF8 /* PalindromNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623A6B9028009B4A00DB4AF8 /* PalindromNumbers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		622A79E627FF3BF500AF4855 /* LeetCodeV2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeV2; sourceTree = BUILT_PRODUCTS_DIR; };
 		622A79E927FF3BF500AF4855 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		623A6B8E27FF3C9800DB4AF8 /* AddTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTwoNumbers.swift; sourceTree = "<group>"; };
+		623A6B9028009B4A00DB4AF8 /* PalindromNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromNumbers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				622A79E927FF3BF500AF4855 /* main.swift */,
 				623A6B8E27FF3C9800DB4AF8 /* AddTwoNumbers.swift */,
+				623A6B9028009B4A00DB4AF8 /* PalindromNumbers.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			files = (
 				622A79EA27FF3BF500AF4855 /* main.swift in Sources */,
 				623A6B8F27FF3C9800DB4AF8 /* AddTwoNumbers.swift in Sources */,
+				623A6B9128009B4A00DB4AF8 /* PalindromNumbers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
