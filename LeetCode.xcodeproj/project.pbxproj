@@ -11,6 +11,7 @@
 		623A6B8F27FF3C9800DB4AF8 /* AddTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623A6B8E27FF3C9800DB4AF8 /* AddTwoNumbers.swift */; };
 		623A6B9128009B4A00DB4AF8 /* PalindromNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623A6B9028009B4A00DB4AF8 /* PalindromNumbers.swift */; };
 		623A6B93280197CC00DB4AF8 /* RomanToInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623A6B92280197CC00DB4AF8 /* RomanToInteger.swift */; };
+		623A6B952801A92200DB4AF8 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623A6B942801A92200DB4AF8 /* LongestSubstringWithoutRepeatingCharacters.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		623A6B8E27FF3C9800DB4AF8 /* AddTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTwoNumbers.swift; sourceTree = "<group>"; };
 		623A6B9028009B4A00DB4AF8 /* PalindromNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromNumbers.swift; sourceTree = "<group>"; };
 		623A6B92280197CC00DB4AF8 /* RomanToInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanToInteger.swift; sourceTree = "<group>"; };
+		623A6B942801A92200DB4AF8 /* LongestSubstringWithoutRepeatingCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestSubstringWithoutRepeatingCharacters.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				623A6B8E27FF3C9800DB4AF8 /* AddTwoNumbers.swift */,
 				623A6B9028009B4A00DB4AF8 /* PalindromNumbers.swift */,
 				623A6B92280197CC00DB4AF8 /* RomanToInteger.swift */,
+				623A6B942801A92200DB4AF8 /* LongestSubstringWithoutRepeatingCharacters.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -132,6 +135,7 @@
 				622A79EA27FF3BF500AF4855 /* main.swift in Sources */,
 				623A6B93280197CC00DB4AF8 /* RomanToInteger.swift in Sources */,
 				623A6B8F27FF3C9800DB4AF8 /* AddTwoNumbers.swift in Sources */,
+				623A6B952801A92200DB4AF8 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 				623A6B9128009B4A00DB4AF8 /* PalindromNumbers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
