@@ -10,3 +10,4 @@ import Foundation
 let addTwoNumbers = AddTwoNumbers()
 addTwoNumbers.tests()
 PalindromeNumbers.tests()
+RomanToInteger.tests()
