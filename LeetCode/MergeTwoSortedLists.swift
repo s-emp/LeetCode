@@ -5,7 +5,7 @@
 //  Created by Сергей Мельников on 13.04.2022.
 //
 
-class MergeTwoSortedLists {
+class MergeTwoSortedLists { // по идее можно сделать и без выделения дополнительной памяти для result
     func mergeTwoLists(_ list1: ListNode?, _ list2: ListNode?) -> ListNode? {
         guard list1 != nil || list2 != nil else { return nil }
         var list1 = list1
