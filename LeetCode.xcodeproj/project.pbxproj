@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6216038A280C1A3000203469 /* Yandex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62160389280C1A3000203469 /* Yandex.swift */; };
 		622A79EA27FF3BF500AF4855 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 622A79E927FF3BF500AF4855 /* main.swift */; };
 		623A6B8F27FF3C9800DB4AF8 /* AddTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623A6B8E27FF3C9800DB4AF8 /* AddTwoNumbers.swift */; };
 		623A6B9128009B4A00DB4AF8 /* PalindromNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623A6B9028009B4A00DB4AF8 /* PalindromNumbers.swift */; };
@@ -32,6 +33,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		62160389280C1A3000203469 /* Yandex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Yandex.swift; sourceTree = "<group>"; };
 		622A79E627FF3BF500AF4855 /* LeetCodeV2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeV2; sourceTree = BUILT_PRODUCTS_DIR; };
 		622A79E927FF3BF500AF4855 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		623A6B8E27FF3C9800DB4AF8 /* AddTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTwoNumbers.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 				62677ECA280740D80039A361 /* MergeTwoSortedLists.swift */,
 				62677ECC28087ED60039A361 /* RemoveDuplicatesFromSortedArray.swift */,
 				62677ECE2808860E0039A361 /* LongestPalindromic.swift */,
+				62160389280C1A3000203469 /* Yandex.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 				622A79EA27FF3BF500AF4855 /* main.swift in Sources */,
 				62677ECF2808860E0039A361 /* LongestPalindromic.swift in Sources */,
 				62CFBB272805EC8E00A4FEE1 /* LongestCommonPrefix.swift in Sources */,
+				6216038A280C1A3000203469 /* Yandex.swift in Sources */,
 				623A6B93280197CC00DB4AF8 /* RomanToInteger.swift in Sources */,
 				623A6B8F27FF3C9800DB4AF8 /* AddTwoNumbers.swift in Sources */,
 				62677ECD28087ED60039A361 /* RemoveDuplicatesFromSortedArray.swift in Sources */,
