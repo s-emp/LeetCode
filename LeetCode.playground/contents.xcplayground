@@ -7,5 +7,6 @@
         <page name='Two Sum'/>
         <page name='Add Two numbers'/>
         <page name='Running Sum of 1d Array'/>
+        <page name='Find Pivot Index'/>
     </pages>
 </playground>
