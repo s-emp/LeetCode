@@ -8,5 +8,9 @@
         <page name='Add Two numbers'/>
         <page name='Running Sum of 1d Array'/>
         <page name='Find Pivot Index'/>
+        <page name='Isomorphic Strings'/>
+        <page name='Is Subsequence'/>
+        <page name=' Reverse Linked List'/>
+        <page name='Merge Two Sorted Lists'/>
     </pages>
 </playground>
